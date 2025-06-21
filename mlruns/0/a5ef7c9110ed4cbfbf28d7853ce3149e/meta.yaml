@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/a5ef7c9110ed4cbfbf28d7853ce3149e/artifacts
+end_time: 1750469510186
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a5ef7c9110ed4cbfbf28d7853ce3149e
+run_name: honorable-lynx-206
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750469509723
+status: 3
+tags: []
+user_id: DELL

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/edef7e1a7511482e974958cf41be03c2/artifacts
+end_time: 1750470697443
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: edef7e1a7511482e974958cf41be03c2
+run_name: dazzling-foal-959
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750470693940
+status: 4
+tags: []
+user_id: DELL
