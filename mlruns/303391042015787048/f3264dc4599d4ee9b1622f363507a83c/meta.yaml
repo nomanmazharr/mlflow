@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/303391042015787048/f3264dc4599d4ee9b1622f363507a83c/artifacts
+end_time: 1750471686456
+entry_point_name: ''
+experiment_id: '303391042015787048'
+lifecycle_stage: active
+run_id: f3264dc4599d4ee9b1622f363507a83c
+run_name: loud-asp-26
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750471667394
+status: 3
+tags: []
+user_id: DELL
